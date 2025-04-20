@@ -2,7 +2,7 @@
 
 Scientists often need to identify which genes are involved in complex biological processes, like how our bodies respond to low oxygen (`hypoxia`). Traditionally, this involves painstaking research and database searches. But could Artificial Intelligence lend a hand?
 
-In a recent experiment (you can see the code [here](link-to-notebook-if-applicable)), we explored using Google's `Gemini` AI model as a bioinformatics assistant specifically for this task.
+In a recent experiment (you can see the code [here]([link-to-notebook-if-applicable](https://www.kaggle.com/code/chemkhiali/rag-genes))), we explored using Google's `Gemini` AI model as a bioinformatics assistant specifically for this task.
 
 **The Challenge:**
 
